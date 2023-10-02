@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Lab04_TranThiThienTrang\Lab04_TranThiThienTrang\bin\Debug\Lab04_TranThiThienTrang.exe.config
+C:\Users\Administrator\source\repos\Lab04_TranThiThienTrang\Lab04_TranThiThienTrang\bin\Debug\Lab04_TranThiThienTrang.exe
+C:\Users\Administrator\source\repos\Lab04_TranThiThienTrang\Lab04_TranThiThienTrang\bin\Debug\Lab04_TranThiThienTrang.pdb
+C:\Users\Administrator\source\repos\Lab04_TranThiThienTrang\Lab04_TranThiThienTrang\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\Lab04_TranThiThienTrang\Lab04_TranThiThienTrang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Lab04_TranThiThienTrang\Lab04_TranThiThienTrang\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\Lab04_TranThiThienTrang\Lab04_TranThiThienTrang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\Lab04_TranThiThienTrang\Lab04_TranThiThienTrang\obj\Debug\Lab04_TranThiThienTrang.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Lab04_TranThiThienTrang\Lab04_TranThiThienTrang\obj\Debug\Lab04_TranThiThienTrang.Form1.resources
+C:\Users\Administrator\source\repos\Lab04_TranThiThienTrang\Lab04_TranThiThienTrang\obj\Debug\Lab04_TranThiThienTrang.frmFaculty.resources
+C:\Users\Administrator\source\repos\Lab04_TranThiThienTrang\Lab04_TranThiThienTrang\obj\Debug\Lab04_TranThiThienTrang.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Lab04_TranThiThienTrang\Lab04_TranThiThienTrang\obj\Debug\Lab04_TranThiThienTrang.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Lab04_TranThiThienTrang\Lab04_TranThiThienTrang\obj\Debug\Lab04_TranThiThienTrang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lab04_TranThiThienTrang\Lab04_TranThiThienTrang\obj\Debug\Lab04_TranThiThienTrang.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Lab04_TranThiThienTrang\Lab04_TranThiThienTrang\obj\Debug\Lab04_TranThiThienTrang.exe
+C:\Users\Administrator\source\repos\Lab04_TranThiThienTrang\Lab04_TranThiThienTrang\obj\Debug\Lab04_TranThiThienTrang.pdb
+C:\Users\Administrator\source\repos\Lab04_TranThiThienTrang\Lab04_TranThiThienTrang\obj\Debug\Lab04_TranThiThienTrang.TimKiemSV.resources
